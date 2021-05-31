@@ -1,8 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="">
-  <img align="left" alt="" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https:">
   <img align="left" alt="https://www.linkedin.com/in/alan-ribeiro-221354165/" width="22px" src="" />
 </a>
